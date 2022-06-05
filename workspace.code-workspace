@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "git",
+			"path": "c:\\Users\\flavi\\OneDrive\\Desktop\\Samuel_aula\\Ola-mundo\\git"
+		},
+		{
+			"name": "pw",
+			"path": "c:\\Users\\flavi\\OneDrive\\Desktop\\Samuel_aula\\pw"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
