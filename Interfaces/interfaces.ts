@@ -12,7 +12,7 @@ const tlou: Game = {
     genre: "Action",
     plataform: ["PS3", "PS4", "PS5"],
     getSimilars: (title: string) => {
-        console.log(`Similar games to ${title}: Uncharted, A Plague Tale, Metro`);
+        console.log(`Similar games to ${title}: Uncharted, A Plague Tale, Metro, teste bla`);
     }
 }
 
